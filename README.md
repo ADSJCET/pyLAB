@@ -1,1 +1,1 @@
-# pyLAB
+# pyLAB hands-on-Workshop 
